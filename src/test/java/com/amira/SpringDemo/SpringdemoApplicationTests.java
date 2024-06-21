@@ -1,4 +1,4 @@
-package com.amira.springdemo;
+package com.amira.SpringDemo;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
